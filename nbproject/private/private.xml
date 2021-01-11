@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/While.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Temp.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizadorLexico/AnalizadorLexico.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Break.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Else.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Inter.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/simbolos/Arreglo.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/If.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Op.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Est.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/simbolos/Ent.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/simbolos/Tipo.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Instr.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Arit.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizadorLexico/Palabra.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Sec.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Rel.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/main/Main.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Nodo.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/And.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Acceso.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Do.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizadorLexico/Etiqueta.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Unario.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Constante.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Expr.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizadorLexico/Real.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Logica.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizadorLexico/Num.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizador/Analizador.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Not.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/analizadorLexico/Token.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/EstElem.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Or.java</file>
+            <file>file:/E:/Semestre%20VI/Compiladores/Primera%20Unidad/trabajo%20final/Compilador/src/inter/Id.java</file>
+        </group>
+    </open-files>
+</project-private>
